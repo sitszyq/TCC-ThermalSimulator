@@ -119,8 +119,8 @@ cxCur=962
 cxMin=10
 
 [Frame3_View0,0]
-Cursor.row=81
-Cursor.column=0
+Cursor.row=82
+Cursor.column=26
 TopSubLine=100
 
 [Frame4]
