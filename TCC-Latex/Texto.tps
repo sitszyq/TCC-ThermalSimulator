@@ -119,7 +119,7 @@ cxCur=962
 cxMin=10
 
 [Frame3_View0,0]
-Cursor.row=80
+Cursor.row=81
 Cursor.column=0
 TopSubLine=100
 
