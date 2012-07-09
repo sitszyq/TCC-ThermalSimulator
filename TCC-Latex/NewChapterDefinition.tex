@@ -1,0 +1,66 @@
+% coloque tudo isso no preâmbulo:
+\newlength{\capsep}
+\setlength{\capsep}{36pt}
+
+\makeatletter
+% Defining how is typeset the \chapter
+\def\@makechapterhead#1{%
+  {%
+%  \noindent\rule{\textwidth}{1.7pt}\\\par
+  \normalfont\ABNTchaptersize\ABNTchapterfont%
+  \espaco{umemeio}%
+  \vspace*{0pt}%
+  \noindent%
+  \parbox[b]{\textwidth}{%
+    \parbox[t]{4ex}{\thechapter}%
+    \parbox[t]{\textwidth - 4ex - 1ex}%
+      {\interlinepenalty\@M\raggedright%
+        \ifthenelse{\boolean{ABNTcapchap}}%
+          {\MakeUppercase{#1}}%
+          {#1}
+      }%
+    \vspace*{0cm}
+    }%\\[3.0ex]%
+  \vspace{\capsep}%
+  }%
+}
+
+% Defining how is typeset the \chapter*
+\def\@makeschapterhead#1{%
+  \vspace*{0pt}\par
+  {\centering\normalfont\ABNTchaptersize\ABNTchapterfont%
+   \ifthenelse{\boolean{ABNTcapchap}}%
+     {\MakeUppercase{#1}}%
+     {#1}
+    \par}%
+  \vspace{\capsep}%
+  \par%
+}
+
+
+\renewcommand\section{\ABNTstartsection{section}{1}{\z@}%
+                           {-36pt}%
+                           {36pt}%
+                           {\espaco{umemeio}\normalfont%
+                            \ABNTsectionfont\Large}}
+\renewcommand\subsection{\ABNTstartsection{subsection}{2}{\z@}%
+                           {-36pt}%
+                           {36pt}%
+                           {\espaco{umemeio}\normalfont%
+                            \ABNTsectionfont\large}}
+\renewcommand\subsubsection{\ABNTstartsection{subsubsection}{3}{\z@}%
+                           {-36pt}%
+                           {36pt}%
+                           {\espaco{umemeio}\normalfont%
+                            \ABNTsectionfont\normalsize}}
+\renewcommand\paragraph{\ABNTstartsection{paragraph}{4}{\z@}%
+                           {3.25ex \@plus1ex \@minus.2ex}%
+                           {-1em}%
+                           {\espaco{umemeio}\normalfont%
+                            \ABNTsectionfont\normalsize}}
+\renewcommand\subparagraph{\ABNTstartsection{subparagraph}{5}{\parindent}%
+                           {3.25ex \@plus1ex \@minus .2ex}%
+                           {-1em}%
+                           {\espaco{simples}\normalfont%
+                            \ABNTsectionfont\normalsize}}
+\makeatother

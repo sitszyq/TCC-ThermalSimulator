@@ -1,0 +1,36 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{14}
+\contentsline {section}{\numberline {1.1}Motiva\c c\~ao}{14}
+\contentsline {section}{\numberline {1.2}Objetivos}{14}
+\contentsline {section}{\numberline {1.3}Organiza\c c\~ao do trabalho}{14}
+\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{15}
+\contentsline {section}{\numberline {2.1}Meios Porosos}{15}
+\contentsline {subsection}{\numberline {2.1.1}Conceitos Preliminares}{15}
+\contentsline {subsection}{\numberline {2.1.2}Dispers\~ao}{16}
+\contentsline {subsection}{\numberline {2.1.3}M\'etodo da M\'edia Volum\'etrica Local}{16}
+\contentsline {section}{\numberline {2.2}Modelos de Produtividade para Po\c cos}{16}
+\contentsline {section}{\numberline {2.3}Temperature Logging e Reservoir Management}{17}
+\contentsline {chapter}{\numberline {3}Modelo do Reservat\'orio}{18}
+\contentsline {section}{\numberline {3.1}Introdu\c c\~ao}{18}
+\contentsline {section}{\numberline {3.2}Equa\c c\~oes governantes}{19}
+\contentsline {subsection}{\numberline {3.2.1}Conserva\c c\~ao da Massa}{19}
+\contentsline {subsection}{\numberline {3.2.2}Conserva\c c\~ao da Quantidade de Movimento}{19}
+\contentsline {subsection}{\numberline {3.2.3}Conserva\c c\~ao da Energia Mec\^anica}{20}
+\contentsline {subsection}{\numberline {3.2.4}Conserva\c c\~ao da Energia T\'ermica}{21}
+\contentsline {chapter}{\numberline {4}Modelo do Po\c co}{22}
+\contentsline {section}{\numberline {4.1}Introdu\c c\~ao}{22}
+\contentsline {section}{\numberline {4.2}Equa\c c\~oes governantes}{22}
+\contentsline {subsection}{\numberline {4.2.1}Conserva\c c\~ao da Massa}{22}
+\contentsline {subsection}{\numberline {4.2.2}Conserva\c c\~ao da Quantidade de Movimento}{22}
+\contentsline {subsection}{\numberline {4.2.3}Conserva\c c\~ao da Energia total}{23}
+\contentsline {chapter}{\numberline {5}Acoplamento Po\c co-Reservat\'orio}{24}
+\contentsline {chapter}{\numberline {6}Resultados}{25}
+\contentsline {chapter}{\numberline {7}Conclus\~oes}{26}
+\contentsline {chapter}{\numberline {8}Recomenda\c c\~oes}{27}
+\contentsline {chapter}{Ap\^endice{} A{} -$\tmspace -\thinmuskip {.1667em}$-{} Resultados de c\'alculo vetorial e tensorial}{28}
+\contentsline {chapter}{Ap\^endice{} B{} -$\tmspace -\thinmuskip {.1667em}$-{} Solu\c c\~ao Anal\IeC {\'\i }tica do Modelo do Reservat\'orio}{29}
+\contentsline {chapter}{Ap\^endice{} C{} -$\tmspace -\thinmuskip {.1667em}$-{} Propriedades dos fluidos}{30}
+\contentsline {section}{\numberline {C.1}Fase \'Agua}{30}
+\contentsline {section}{\numberline {C.2}Fase \'Oleo}{30}
+\contentsline {section}{\numberline {C.3}Fase G\'as}{30}
+\contentsline {chapter}{Refer\^encias}{31}

@@ -1,0 +1,29 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.49 }
+
+\bibitem{AmirFaghri2006}
+\abntrefinfo{Faghri}{FAGHRI}{2006}
+{FAGHRI, Y.~Z. A. \emph{Transport Phenomena in Multiphase Systems}.
+  https://www.thermalfluidscentral.org/e-books/book-intro.php?b=42: Elsevier,
+  2006. Dispon{\'\i}vel em:
+  $<$https://www.thermalfluidscentral.org/e-books/book-intro.php?b=42$>$.}
+
+\bibitem{Kaviany1995}
+\abntrefinfo{Kaviany}{KAVIANY}{1995}
+{KAVIANY, M. \emph{Principles of Heat Transfer in Porous Media}.
+  Springer-Verlag, 1995.  (Mechanical Engineering Series).
+ISBN 9780387945507. Dispon{\'\i}vel em:
+  $<$http://books.google.com.br/books?id=pX61QAOKKqsC$>$.}
+
+\bibitem{Whitaker1986}
+\abntrefinfo{Whitaker}{WHITAKER}{1986}
+{WHITAKER, S. Flow in porous media i: A theoretical derivation of darcy's law.
+Kluwer Academic Publishers, v.~1, n.~1, p. 3--25--, 1986.
+ISSN 0169-3913.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1007/BF01036523$>$.}
+
+\end{thebibliography}

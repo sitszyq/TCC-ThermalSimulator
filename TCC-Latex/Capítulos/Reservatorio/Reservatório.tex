@@ -1,0 +1,101 @@
+\chapter{Modelo do Reservatório}
+
+Apresenta-se a dedução do modelo matemático do reservatório
+
+- O reservatório é um meio poroso, falar sobre meios porosos
+
+- Incluir, talvez, uma seção que fala sobre meios porosos
+
+\section{Introdução}
+
+Na maioria dos modelos térmicos de poço, assume-se que a temperatura do fluido proveniente do reservatório é dada segundo o gradiente geotérmico. Alguns autores adicionaram o efeito de compressão/expansão térmica numa região suficientemente próxima do poço (BUSCAR REFERENCIAS).
+
+Em poços verticais, tal fenômeno é praticamente insignificante se comparado à variação de temperatura devido ao gradiente geotérmico. Por sua vez, quando se lida com poços horizontais ou de inclinação desprezível, a temperatura do fluido que entra no poço não apresenta influência do gradiente geotérmico, logo, torna-se necessária a consideração de efeitos antes desprezíveis na modelagem de poços verticais. \cite{YoshiokaMay2007}
+
+
+
+-Apresentar a necessidade de um modelo para reservatório
+
+-Comparar o modelo que será desenvolvido com os já existentes e em uso em softwares comerciais
+
+-Discutir sobre quais fenômenos físicos estamos querendo modelar no reservatório e portanto, quais deles devem ser modelados pelas equações que serão desenvolvidas
+
+-Ideia para a dedução das equações: apresentar as relações fundamentais do método da média volumétrica e utilizá-las sem mencionar integrais no volume, o máximo possível, para deixar clara a dedução das equações feitas aqui.
+
+-Falar em algum lugar no desenvolvimento das equações que elas são válidas para o caso laminar e de fluido newtoniano. A expressão para o tensão tensão em escoamentos turbulentos poderia ser utilizado se a média no tempo fosse empregada. (Transport Phenomena)
+
+ 
+
+\section{Equações governantes}
+
+Apresenta-se aqui o modelo numérico empregado na representação do reservatório.
+
+Um sistema multifásico é diferenciado de um sistema monofásico pela presença de uma ou mais interfaces separando as fases. Ele pode ser considerado como um campo que é dividido em regiões monofásicas separadas por estas interfaces ou pode ser considerado como fronteiras móveis entre essas fases. \cite{AmirFaghri2006}
+
+A modelagem direta do escoamento através de meios porosos é inviável pois estes constituem sistemas multifásicos cujas interfaces são de díficil representação. Logo, utiliza-se a técnica da média volumétrica em conjunto com as equações para escoamento livre a fim de se obter o modelo numérico do reservatório.
+
+Utiliza-se a técnica euleriana para a descrição do escoamento. Segundo ela, as propriedades do fluido são quantificadas ao longo do domínio de escoamento e do tempo. 
+
+As equações governantes são escritas para um volume de controle arbitrário contido no domínio do escoamento, elas expressam a relação entre a mudança das propriedades do escoamento no interior do volume de controle e através dele. 
+
+\subsection{Conservação da Massa}
+
+-Apresentar a dedução da equação da conservação da massa.
+
+\subsection{Conservação da Quantidade de Movimento}
+
+Deduzir a equação da quantidade de movimento
+
+-Apresentar primeiramente a equação para o caso de escoamento livre, depois pular para meio poroso usando a técnica da média volumétrica
+
+-Falar da equação de Darcy
+
+-Falar do modelo semi-eurístico, porque esse nome? O que significa cada termo? Quando pode ser desprezado?
+
+-Segundo Kaviany, uma tentativa contínua de se ter uma equação que descreve tanto o movimento em meios porosos quanto em escoamentos livres pode ser observada. Os resultados obtidos até então nessa linha são de certo modo empíricos, apesar de muitos apresentarem rigorismo matemático elevado, é sempre necessário alguma condição para o fechamento do problema que é meio ``xunxada''. 
+
+- Deduzir a equação para escoamento livre?
+
+Henry Darcy, em 1856, desenvolveu um modelo empírico para o cálculo da resistência ao escoamento monofásico unidimensional em regime permanente provocada por um meio poroso uniforme, rígido, não-consolidado (Deixar claro o que é não-consolidado). Esse modelo se tornou conhecido como a lei de Darcy, apresentada na \eq{eq:LeiDeDarcy} \cite{AmirFaghri2006} 
+\begin{equation}
+	u = \dfrac{k}{\mu} \dfrac{dP}{dx}
+\label{eq:LeiDeDarcy}
+\simbolo{u}{componente 'x' do vetor velocidade \hfill $\left[m/s\right]$}
+\simbolo{k}{permeabilidade absoluta \hfill $\left[m^2\right]$}
+\simbolo{\mu}{viscosidade dinâmica \hfill $\left[Pa.s\right]$}
+\Simbolo{P}{Pressão \hfill $\left[Pa\right]$}
+\end{equation} 
+
+Recentemente, \cite{Whitaker1986} apresentou uma derivação teórica dessa lei assumindo escoamento de Stokes ao longo de um meio poroso rígido e empregando o método da média volumétrica. A expressão obtida é, por sinal, mais genérica que a lei de Darcy, no sentido que é válida para meios anisotrópicos, conforme mostrada na \eq{eq:LeiDeDarcyWhitaker} 
+\begin{equation}
+	\left< \textbf{v}_{\beta} \right> = -\dfrac{\textbf{K}}{\mu_{\beta}} . \left[\nabla \left< P_{\beta} \right>^{\beta} - \rho_{\beta} \textbf{g} \right]
+\label{eq:LeiDeDarcyWhitaker}
+\simbolo{\left< \textbf{v}_{\beta} \right>}{média extrínsica do vetor velocidade  \hfill $\left[m/s\right]$}
+\Simbolo{\textbf{K}}{tensor permeabilidade \hfill $\left[m^2\right]$}
+\simbolo{\textbf{g}}{vetor gravidade \hfill $\left[m^2\right]$}
+\simbolomisc{\beta}{fase beta \hfill $\left[-\right]$}
+\end{equation}
+
+De acordo com a hipótese de Stokes, o termo inercial da equação de conservação da quantidade de movimento, dado pela soma entre dos termos de transporte advectivo e de acumulação de quantidade de movimento, é desconsiderado obtenção da lei de Darcy. No entanto, tal termo pode ser importante (EM QUAL SITUACAO? QUAL FISICA ELE MODELA) e para tanto, a seguinte extensão da lei de Darcy é proposta por (POR QUEM, ORIGINALMENTE?)
+
+
+
+\subsection{Conservação da Energia Mecânica}
+
+Deduzir a equação da conservação da energia mecânica, explicar fisicamente cada termo
+
+-Falar sobre dispersão da quantidade de movimento ? Há algo no Handbook of Porous Media
+
+-Capítulo 3 do Handbook of Porous Media mostra a dedução da equação da conservação da quantidade de movimento para meio poroso
+
+-Consultar o paper já na base de dados: The limitations of the brinkman-Forchheimer extended Darcy equation (Ref 100 do cap 3 do handbook of porous media).
+
+\subsection{Conservação da Energia Térmica}
+
+Deduzir a equação da energia térmica, explicar fisicamente cada termo
+
+- Falar sobre dispersão da energia térmica
+
+- Quando se pode assumir equilíbrio térmico entre rocha e fluido?
+
+- O que muda na equação se não assumíssemos o equilíbrio térmico?

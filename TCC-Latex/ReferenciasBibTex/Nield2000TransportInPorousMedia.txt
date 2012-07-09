@@ -1,0 +1,14 @@
+﻿Reference Type: Journal Article
+Author: Nield, D. A.
+Primary Title: Resolution of a Paradox Involving Viscous Dissipation and Nonlinear Drag in a Porous Medium
+Journal Name: Transport in Porous Media
+Cover Date: 2000-12-01
+Publisher: Springer Netherlands
+Issn: 0169-3913
+Subject: Earth and Environmental Science
+Start Page: 349
+End Page: 357
+Volume: 41
+Issue: 3
+Url: http://dx.doi.org/10.1023/A:1006636605498
+Doi: 10.1023/A:1006636605498

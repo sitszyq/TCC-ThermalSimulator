@@ -1,0 +1,138 @@
+% This file was created with JabRef 2.7.2.
+% Encoding: Cp1252
+
+@BOOK{AmirFaghri2006,
+  title = {Transport Phenomena in Multiphase Systems},
+  publisher = {Elsevier},
+  year = {2006},
+  author = {Amir Faghri, Yuwen Zhang},
+  address = {https://www.thermalfluidscentral.org/e-books/book-intro.php?b=42},
+  owner = {victor},
+  timestamp = {2012.06.01},
+  url = {https://www.thermalfluidscentral.org/e-books/book-intro.php?b=42}
+}
+
+@BOOK{Hasan2002,
+  title = {Fluid Flow and Heat Transfer in Wellbores},
+  publisher = {Society of Petroleum Engineers},
+  year = {2002},
+  author = {Hasan, A.R. and Kabir, C.S.},
+  __markedentry = {[victor:]},
+  isbn = {9781555630942},
+  lccn = {2003278096},
+  owner = {victor},
+  timestamp = {2012.06.01},
+  url = {http://books.google.com.br/books?id=3N7qAAAACAAJ}
+}
+
+@BOOK{Kaviany1995,
+  title = {Principles of Heat Transfer in Porous Media},
+  publisher = {Springer-Verlag},
+  year = {1995},
+  author = {Massoud Kaviany},
+  series = {Mechanical Engineering Series},
+  isbn = {9780387945507},
+  lccn = {95004588},
+  owner = {victor},
+  timestamp = {2012.06.01},
+  url = {http://books.google.com.br/books?id=pX61QAOKKqsC}
+}
+
+@ARTICLE{Nield2000-12-01,
+  author = {Nield, D. A.},
+  title = {Resolution of a Paradox Involving Viscous Dissipation and Nonlinear
+	Drag in a Porous Medium},
+  journal = {Transport in Porous Media},
+  year = {2000-12-01},
+  volume = {41},
+  pages = {349--357},
+  number = {3},
+  issn = {0169-3913},
+  keywords = {Earth and Environmental Science},
+  owner = {victor},
+  publisher = {Springer Netherlands},
+  timestamp = {2012.06.01},
+  url = {http://dx.doi.org/10.1023/A:1006636605498}
+}
+
+@ARTICLE{Nield2007,
+  author = {Nield, D. A.},
+  title = {The Modeling of Viscous Dissipation in a Saturated Porous Medium},
+  journal = {J. Heat Transfer},
+  year = {2007},
+  volume = {129},
+  pages = {1459--1463},
+  number = {10},
+  month = oct,
+  keywords = {flow through porous media, forced convection, natural convection,
+	viscosity},
+  owner = {victor},
+  publisher = {ASME},
+  timestamp = {2012.06.01},
+  url = {http://dx.doi.org/10.1115/1.2755069}
+}
+
+@BOOK{Nield2006,
+  title = {Convection in Porous Media},
+  publisher = {Springer},
+  year = {2006},
+  author = {Nield, D.A. and Bejan, A.},
+  isbn = {9780387290966},
+  lccn = {2005932308},
+  owner = {victor},
+  timestamp = {2012.06.01},
+  url = {http://books.google.com.br/books?id=4qTvIixmtVkC}
+}
+
+@BOOK{vafai2000handbook,
+  title = {Handbook of Porous Media},
+  publisher = {Marcel Dekker},
+  year = {2000},
+  author = {Vafai, K. and Hadim, H.A.},
+  isbn = {9780824788865},
+  lccn = {00031591},
+  owner = {victor},
+  timestamp = {2012.06.01},
+  url = {http://books.google.com.br/books?id=Oi3VWK0773MC}
+}
+
+@BOOK{Whitaker1999,
+  title = {The Method of Volume Averaging},
+  publisher = {Kluwer Academic},
+  year = {1999},
+  author = {Whitaker, S.},
+  series = {Theory and Applications of Transport in Porous Media},
+  __markedentry = {[victor:6]},
+  isbn = {9780792354864},
+  lccn = {98047438},
+  owner = {victor},
+  timestamp = {2012.06.02},
+  url = {http://books.google.com.br/books?id=x7mQCEokSCAC}
+}
+
+@ARTICLE{Whitaker1986,
+  author = {Whitaker, Stephen},
+  title = {Flow in porous media I: A theoretical derivation of Darcy's law},
+  year = {1986},
+  volume = {1},
+  pages = {3-25--},
+  number = {1},
+  booktitle = {Transport in Porous Media},
+  issn = {0169-3913},
+  keywords = {Volume averaging, Brinkman, correction, closure},
+  owner = {victor},
+  publisher = {Kluwer Academic Publishers},
+  timestamp = {2012.06.01},
+  url = {http://dx.doi.org/10.1007/BF01036523}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
