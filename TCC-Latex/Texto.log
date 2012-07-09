@@ -1,32 +1,31 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.6.2)  9 JUL 2012 01:13
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.6.3)  9 JUL 2012 16:23
 entering extended mode
-**C:/Users/VICTOR/Dropbox/TCC/TCC/TCC-Latex/Texto.tex
-(C:/Users/VICTOR/Dropbox/TCC/TCC/TCC-Latex/Texto.tex
+**D:/TCC/TCC-Latex/Texto.tex
+(D:/TCC/TCC-Latex/Texto.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, german, ngerman, german-x-2009-06-19, ngerm
 an-x-2009-06-19, french, portuguese, loaded.
 \@indexfile=\write3
 Writing index file Texto.idx
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\abnt.cls"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\abnt.cls" ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 Document Class: abnt 2006/09/09 v1.32 Classe abnt (NBR6024, NBR6027, NBR6028, NBR14724)
 ("D:\Programas\MiKTeX 2.8\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 ) ("D:\Programas\MiKTeX 2.8\tex\latex\tools\calc.sty"
-Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count79
 \calc@Bcount=\count80
 \calc@Adimen=\dimen102
 \calc@Bdimen=\dimen103
 \calc@Askip=\skip41
 \calc@Bskip=\skip42
-LaTeX Info: Redefining \setlength on input line 75.
-LaTeX Info: Redefining \addtolength on input line 76.
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count81
 \calc@Cskip=\skip43
 )
 ("D:\Programas\MiKTeX 2.8\tex\latex\tools\multicol.sty"
-Package: multicol 2006/05/18 v1.6g multicolumn formatting (FMi)
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count82
 \mult@box=\box26
 \multicol@leftmargin=\dimen104
@@ -71,32 +70,26 @@ Package: multicol 2006/05/18 v1.6g multicolumn formatting (FMi)
 \multicolundershoot=\dimen111
 \mult@nat@firstbox=\box50
 \colbreak@box=\box51
-)
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\abntex-abrev.sty"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+\multicol@sort@counter=\count90
+) ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\abntex-abrev.sty"
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 Package: abntex-abrev 2005/11/14 v1.4 Abreviacoes
-
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\nbr10522-1988.def"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+ ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\nbr10522-1988.def"
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:1988)
 )
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\abntex-abrev-pt_BR.def"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\abntex-abrev-pt_BR.def" ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def
+")
 File: abntex-abrev-pt_BR.def 2005/11/14 v1.3 definicao de abntex-abrev, traducao de termos en_US/pt_BR
-))
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\abntex-text.sty"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+)) ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\abntex-text.sty" ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 Package: abntex-text 2005/11/14 v1.1 abnTeX text replacements
-
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\abntex-text-pt_BR.def"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\abntex-text-pt_BR.def" ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def"
+)
 File: abntex-text-pt_BR.def 2005/12/21 v1.2 Definicao de nomes em Portugues/Brasil (pt_BR)
-))
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\abntex-default-design.sty"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+)) ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\abntex-default-design.sty"
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 Package: abntex-default-design 2005/06/22 v1.2 Definicoes de design padrao do abntex
-
-("D:\Programas\MiKTeX 2.8\tex\latex\ltxmisc\relsize.sty"
+ ("D:\Programas\MiKTeX 2.8\tex\latex\ltxmisc\relsize.sty"
 Package: relsize 2003/07/04 ver 3.1
 
 
@@ -108,22 +101,21 @@ Package relsize Warning: Failed to get list of font sizes.
 \ABNTsignwidth=\skip47
 \ABNTsignthickness=\skip48
 \ABNTsignskip=\skip49
-) ("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\nbr6027-1989.def")
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\nbr14724-2001.def")
-("D:\Programas\MiKTeX 2.8\tex\latex\base\report.cls"
+) ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\nbr6027-1989.def")
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\nbr14724-2001.def") ("D:\Programas\MiKTeX 2.8\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
 ("D:\Programas\MiKTeX 2.8\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count90
-\c@chapter=\count91
-\c@section=\count92
-\c@subsection=\count93
-\c@subsubsection=\count94
-\c@paragraph=\count95
-\c@subparagraph=\count96
-\c@figure=\count97
-\c@table=\count98
+\c@part=\count91
+\c@chapter=\count92
+\c@section=\count93
+\c@subsection=\count94
+\c@subsubsection=\count95
+\c@paragraph=\count96
+\c@subparagraph=\count97
+\c@figure=\count98
+\c@table=\count99
 \abovecaptionskip=\skip50
 \belowcaptionskip=\skip51
 \bibindent=\dimen112
@@ -174,7 +166,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 )) ("D:\Programas\MiKTeX 2.8\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ))
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\TCStyle.sty ("D:\Programas\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+(D:\TCC\TCC-Latex\TCStyle.sty ("D:\Programas\MiKTeX 2.8\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
@@ -194,7 +186,7 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 ("D:\Programas\MiKTeX 2.8\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
-\babel@savecnt=\count99
+\babel@savecnt=\count100
 \U@D=\dimen113
 )
 \l@brazil = a dialect from \language\l@portuges 
@@ -223,13 +215,13 @@ Package: amsbsy 1999/11/29 v1.2d
 ) ("D:\Programas\MiKTeX 2.8\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count100
+\inf@bad=\count101
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count101
-\leftroot@=\count102
+\uproot@=\count102
+\leftroot@=\count103
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count103
-\DOTSCASE@=\count104
+\classnum@=\count104
+\DOTSCASE@=\count105
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
@@ -238,15 +230,15 @@ LaTeX Info: Redefining \cdots on input line 467.
 \big@size=\dimen116
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count105
-\c@MaxMatrixCols=\count106
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
 \dotsspace@=\muskip10
-\c@parentequation=\count107
-\dspbrk@lvl=\count108
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
 \tag@help=\toks18
-\row@=\count109
-\column@=\count110
-\maxfields@=\count111
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
 \andhelp@=\toks19
 \eqnshift@=\dimen117
 \alignsep@=\dimen118
@@ -347,53 +339,49 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 ("D:\Programas\MiKTeX 2.8\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-)))
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\abntcite.sty"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+))) ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\abntcite.sty"
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 Package: abntcite 2006/04/25 v1.30 Chamadas de referencias no texto (NBR10520, NBR10522)
 \minimumbiblabelwidth=\skip55
 \ABCIauxlen=\skip56
-\c@ABCIaux=\count112
-\c@ABCImax=\count113
-
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\nbr10520-2002.def"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+\c@ABCIaux=\count113
+\c@ABCImax=\count114
+ ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\nbr10520-2002.def"
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 File: nbr10520-2002.def 2006/04/25 v1.4 Definicoes para abntcite (NBR10520:2002)
 )
 \biblabelsep=\skip57
 LaTeX Info: Redefining \newblock on input line 466.
 LaTeX Info: Redefining \cite on input line 493.
 \ABCItoken=\toks22
-)
-("D:\Programas\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+) ("D:\Programas\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
- ("D:\Programas\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\Programas\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+("D:\Programas\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ ("D:\Programas\MiKTeX 2.8\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) ("D:\Programas\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+)
+("D:\Programas\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
-
-("D:\Programas\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+ ("D:\Programas\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
- ("D:\Programas\MiKTeX 2.8\tex\generic\oberdiek\infwarerr.sty"
+
+("D:\Programas\MiKTeX 2.8\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 ) ("D:\Programas\MiKTeX 2.8\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count114
+\Gread@gobject=\count115
 ))
 \Gin@req@height=\dimen123
 \Gin@req@width=\dimen124
-)
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\tabela-simbolos.sty"
-("D:\Programas\MiKTeX 2.8\tex\latex\abntex-0.9\texmf\tex\latex\abntex\cvs-id.def")
+) ("D:\Programas\MiKTeX 2.8\tex\latex\abntex\tabela-simbolos.sty"
+("D:\Programas\MiKTeX 2.8\tex\latex\abntex\cvs-id.def")
 Package: tabela-simbolos 2006/09/09 v1.12 Tabela de simbolos e siglas
-
-("D:\Programas\MiKTeX 2.8\tex\latex\index\index.sty"
+ ("D:\Programas\MiKTeX 2.8\tex\latex\index\index.sty"
 Package: index 2004/01/20 v4.2beta Improved index support (dmj)
 \@indexbox=\insert233
 \indexproofstyle=\toks23
@@ -407,29 +395,30 @@ LaTeX Warning: Command \markright  has changed.
                Check if current package is valid.
 
 )
-
-! LaTeX Error: Unknown option `estilo=UFSC' for package `tabela-simbolos'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 \ProcessOptions*
-                     
-The option `estilo=UFSC' was not declared in package `tabela-simbolos', perhaps you
-misspelled its name. Try typing  <return>  to proceed.
-
 \idxtitle@sigla=\toks24
 \tf@sigla=\write4
-Package index Info: Writing index file Texto.siglax on input line 113.
-\idxtitle@symbols=\toks25
-\tf@symbols=\write5
-Package index Info: Writing index file Texto.symbolsx on input line 131.
-\c@Ocorrencia=\count115
+Package index Info: Writing index file Texto.siglax on input line 119.
+\idxtitle@romanlow=\toks25
+\tf@romanlow=\write5
+Package index Info: Writing index file Texto.romanlowx on input line 137.
+\idxtitle@romanupp=\toks26
+\tf@romanupp=\write6
+Package index Info: Writing index file Texto.romanuppx on input line 137.
+\idxtitle@greeklow=\toks27
+\tf@greeklow=\write7
+Package index Info: Writing index file Texto.greeklowx on input line 137.
+\idxtitle@greekupp=\toks28
+\tf@greekupp=\write8
+Package index Info: Writing index file Texto.greekuppx on input line 137.
+\idxtitle@miscelan=\toks29
+\tf@miscelan=\write9
+Package index Info: Writing index file Texto.miscelanx on input line 137.
+\c@Ocorrencia=\count116
+
 Ordem: 1: Romanos 2: Gregos 3: Simbolos
 ) ("D:\Programas\MiKTeX 2.8\tex\latex\supertabular\supertabular.sty"
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count116
+\c@tracingst=\count117
 \ST@wd=\dimen125
 \ST@rightskip=\skip58
 \ST@leftskip=\skip59
@@ -459,27 +448,18 @@ Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
 \caption@parindent=\dimen140
 \caption@hangindent=\dimen141
 )
-\c@ContinuedFloat=\count117
+\c@ContinuedFloat=\count118
 Package caption Info: supertabular package is loaded.
 ))
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.aux (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Commands.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Capa.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Folha_de_rosto.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Folha_de_aprovação.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Dedicatória.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Agradecimentos.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Epígrafe.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Resumo.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Abstract.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Introdução/Introdução.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Fundamentação/Fundamentação.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Reservatorio/Reservatório.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Poço/Poço.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Acoplamento/Acoplamento.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Resultados/Resultados.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Conclusões/Conclusões.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Recomendações/Recomendações.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Apêndice/Apêndice.aux))
+(D:\TCC\TCC-Latex\Texto.aux (D:\TCC\TCC-Latex\Commands.aux) (D:\TCC\TCC-Latex\PreTexto/Capa.aux)
+(D:\TCC\TCC-Latex\PreTexto/Folha_de_rosto.aux) (D:\TCC\TCC-Latex\PreTexto/Folha_de_aprovação.aux)
+(D:\TCC\TCC-Latex\PreTexto/Dedicatória.aux) (D:\TCC\TCC-Latex\PreTexto/Agradecimentos.aux)
+(D:\TCC\TCC-Latex\PreTexto/Epígrafe.aux) (D:\TCC\TCC-Latex\PreTexto/Resumo.aux) (D:\TCC\TCC-Latex\PreTexto/Abstract.aux)
+(D:\TCC\TCC-Latex\Capítulos/Introdução/Introdução.aux) (D:\TCC\TCC-Latex\Capítulos/Fundamentação/Fundamentação.aux)
+(D:\TCC\TCC-Latex\Capítulos/Reservatorio/Reservatório.aux) (D:\TCC\TCC-Latex\Capítulos/Poço/Poço.aux)
+(D:\TCC\TCC-Latex\Capítulos/Acoplamento/Acoplamento.aux) (D:\TCC\TCC-Latex\Capítulos/Resultados/Resultados.aux)
+(D:\TCC\TCC-Latex\Capítulos/Conclusões/Conclusões.aux) (D:\TCC\TCC-Latex\Capítulos/Recomendações/Recomendações.aux)
+(D:\TCC\TCC-Latex\Capítulos/Apêndice/Apêndice.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -494,37 +474,38 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 6.
 LaTeX Font Info:    Try loading font information for MDA+cmr on input line 6.
-
-("D:\Programas\MiKTeX 2.8\tex\latex\mathdesign\mdacmr.fd"
+ ("D:\Programas\MiKTeX 2.8\tex\latex\mathdesign\mdacmr.fd"
 File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 6.
 LaTeX Font Info:    Try loading font information for MDB+cmr on input line 6.
- ("D:\Programas\MiKTeX 2.8\tex\latex\mathdesign\mdbcmr.fd"
+
+("D:\Programas\MiKTeX 2.8\tex\latex\mathdesign\mdbcmr.fd"
 File: mdbcmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 6.
 
-("D:\Programas\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+(C:\Users\victor\AppData\Roaming\MiKTeX\2.8\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
+\scratchcounter=\count119
 \scratchdimen=\dimen142
 \scratchbox=\box55
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count121
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count122
 \MPscratchDim=\dimen143
-\MPnumerator=\count122
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks31
 )
 
 Package tabel-simbolos Warning: package supertabular detected, redefining table commands on input line 6.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Commands.tex) (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Capa.tex
+(D:\TCC\TCC-Latex\Commands.tex) (D:\TCC\TCC-Latex\PreTexto/Capa.tex
 LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
 (Font)              scaled to size 13.24796pt on input line 5.
 LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <14.4> not available
@@ -677,8 +658,7 @@ LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
 
 
 
-{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}]) (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Folha_de_rost
-o.tex
+{C:/Users/victor/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map}]) (D:\TCC\TCC-Latex\PreTexto/Folha_de_rosto.tex
 Underfull \hbox (badness 2269) in paragraph at lines 15--16
 \T1/mdput/m/n/12 em En-ge-nha-ria Me-câ-nica da Uni-ver-si-dade
  []
@@ -702,7 +682,7 @@ Underfull \hbox (badness 1540) in paragraph at lines 15--16
 
 
 
-]) (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Folha_de_aprovação.tex
+]) (D:\TCC\TCC-Latex\PreTexto/Folha_de_aprovação.tex
 LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <12> not available
 (Font)              Font shape `T1/mdput/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
@@ -717,52 +697,60 @@ Overfull \hbox (23.99997pt too wide) in paragraph at lines 30--34
 
 
 
-]) (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Dedicatória.tex [3
+]) (D:\TCC\TCC-Latex\PreTexto/Dedicatória.tex [3
+
+
+
+
+]) (D:\TCC\TCC-Latex\PreTexto/Agradecimentos.tex [4
 
 
 
 
 ])
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Agradecimentos.tex [4
+(D:\TCC\TCC-Latex\PreTexto/Epígrafe.tex [5
 
 
 
-
-])
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Epígrafe.tex [5
-
-
-
-])
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Resumo.tex [6
+]) (D:\TCC\TCC-Latex\PreTexto/Resumo.tex [6
 
 
 
 
 
 ])
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Abstract.tex [7
+(D:\TCC\TCC-Latex\PreTexto/Abstract.tex [7
 
 
 
 
-])
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.lof)
-\tf@lof=\write6
+]) (D:\TCC\TCC-Latex\Texto.lof)
+\tf@lof=\write10
  [8
 
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.lot)
-\tf@lot=\write7
+] (D:\TCC\TCC-Latex\Texto.lot)
+\tf@lot=\write11
  [9
 
 ]
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.symbols) [10
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 11.03998pt on input line 19.
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 13.24796pt on input line 19.
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.sigla)
-[11
+(D:\TCC\TCC-Latex\Texto.romanlow
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 1.
+) (D:\TCC\TCC-Latex\Texto.romanupp) (D:\TCC\TCC-Latex\Texto.greeklow)
+(D:\TCC\TCC-Latex\Texto.greekupp) (D:\TCC\TCC-Latex\Texto.miscelan) [10
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.toc [12
+] (D:\TCC\TCC-Latex\Texto.sigla) [11
+
+]
+(D:\TCC\TCC-Latex\Texto.toc [12
 
 ]
 LaTeX Font Info:    Font shape `OT1/mdput/b/n' will be
@@ -808,9 +796,8 @@ LaTeX Font Info:    Font shape `MDB/mdput/b/n' will be
 LaTeX Font Info:    Font shape `MDB/mdput/b/n' will be
 (Font)              scaled to size 6.43999pt on input line 30.
 )
-\tf@toc=\write8
- [13]
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Introdução/Introdução.tex
+\tf@toc=\write12
+ [13] (D:\TCC\TCC-Latex\Capítulos/Introdução/Introdução.tex
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/mdput/bx/fsc' in size <12> not available
 (Font)              Font shape `T1/mdput/b/fsc' tried instead on input line 22.
@@ -823,7 +810,7 @@ LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
 
 
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Fundamentação/Fundamentação.tex
+] (D:\TCC\TCC-Latex\Capítulos/Fundamentação/Fundamentação.tex
 Cap\'{\i }tulo 2.
 LaTeX Font Info:    Font shape `T1/mdput/bx/fsc' in size <14.4> not available
 (Font)              Font shape `T1/mdput/b/fsc' tried instead on input line 17.
@@ -838,7 +825,7 @@ Overfull \hbox (1.84193pt too wide) in paragraph at lines 41--42
 []\T1/mdput/m/n/12 -Apresentar sub-se-ções com con-cei-tos im-por-tan-tes? Como po-ro-si-dade, per-me-a-bi-li-dade... 
  []
 
-[16]) [17] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Reservatorio/Reservatório.tex
+[16]) [17] (D:\TCC\TCC-Latex\Capítulos/Reservatorio/Reservatório.tex
 Cap\'{\i }tulo 3.
 
 LaTeX Warning: Citation `YoshiokaMay2007' on page 18 undefined on input line 13.
@@ -853,46 +840,41 @@ Overfull \hbox (2.86815pt too wide) in paragraph at lines 53--54
  []
 
 [19]
-LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 71.
-LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 71.
-
-Overfull \hbox (1.63234pt too wide) in paragraph at lines 85--86
+Overfull \hbox (1.63234pt too wide) in paragraph at lines 86--87
 []\T1/mdput/m/n/12 Deduzir a equa-ção da con-ser-va-ção da ener-gia me-câ-nica, ex-pli-car fi-si-ca-mente cada termo 
  []
 
-[20]) [21] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Poço/Poço.tex
+[20]) [21] (D:\TCC\TCC-Latex\Capítulos/Poço/Poço.tex
 Cap\'{\i }tulo 4.
 [22
 
 
 
-]) [23] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Acoplamento/Acoplamento.tex
+]) [23] (D:\TCC\TCC-Latex\Capítulos/Acoplamento/Acoplamento.tex
 Cap\'{\i }tulo 5.
 ) [24
 
 
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Resultados/Resultados.tex
+] (D:\TCC\TCC-Latex\Capítulos/Resultados/Resultados.tex
 Cap\'{\i }tulo 6.
 ) [25
 
 
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Conclusões/Conclusões.tex
+] (D:\TCC\TCC-Latex\Capítulos/Conclusões/Conclusões.tex
 Cap\'{\i }tulo 7.
 ) [26
 
 
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Recomendações/Recomendações.tex
+] (D:\TCC\TCC-Latex\Capítulos/Recomendações/Recomendações.tex
 Cap\'{\i }tulo 8.
 ) [27
 
 
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Apêndice/Apêndice.tex
+] (D:\TCC\TCC-Latex\Capítulos/Apêndice/Apêndice.tex
 LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/mdput/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
@@ -941,10 +923,7 @@ Apendice B.
 Apendice C.
 ) [30
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.bbl
-LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
-(Font)              scaled to size 11.03998pt on input line 10.
-
+] (D:\TCC\TCC-Latex\Texto.bbl
 Underfull \hbox (badness 1009) in paragraph at lines 10--14
 []\T1/mdput/m/n/12 FAGHRI, Y. Z. A. \T1/mdput/m/it/12 Trans-port Phe-no-mena in Mul-tiphase Sys-tems\T1/mdput/m/n/12 . 
  []
@@ -957,47 +936,43 @@ Underfull \hbox (badness 1009) in paragraph at lines 10--14
 ########################################################################
 tabela-simbolos: agora rode geratss (linux) ou manualmente,
 makeindex -s tabela-siglas.ist -o Texto.sigla Texto.siglax
+makeindex -s tabela-simbolos.ist -o Texto.romanlow Texto.romanlowx
+makeindex -s tabela-simbolos.ist -o Texto.romanupp Texto.romanuppx
+makeindex -s tabela-simbolos.ist -o Texto.greeklow Texto.greeklowx
+makeindex -s tabela-simbolos.ist -o Texto.greekupp Texto.greekuppx
+makeindex -s tabela-simbolos.ist -o Texto.miscelan Texto.miscelanx
 makeindex -s tabela-simbolos.ist -o Texto.symbols Texto.symbolsx
 ########################################################################
 [31
 
 
-] (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Texto.aux (C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Commands.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Capa.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Folha_de_rosto.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Folha_de_aprovação.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Dedicatória.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Agradecimentos.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Epígrafe.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Resumo.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\PreTexto/Abstract.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Introdução/Introdução.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Fundamentação/Fundamentação.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Reservatorio/Reservatório.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Poço/Poço.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Acoplamento/Acoplamento.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Resultados/Resultados.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Conclusões/Conclusões.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Recomendações/Recomendações.aux)
-(C:\Users\VICTOR\Dropbox\TCC\TCC\TCC-Latex\Capítulos/Apêndice/Apêndice.aux))
+] (D:\TCC\TCC-Latex\Texto.aux (D:\TCC\TCC-Latex\Commands.aux) (D:\TCC\TCC-Latex\PreTexto/Capa.aux)
+(D:\TCC\TCC-Latex\PreTexto/Folha_de_rosto.aux) (D:\TCC\TCC-Latex\PreTexto/Folha_de_aprovação.aux)
+(D:\TCC\TCC-Latex\PreTexto/Dedicatória.aux) (D:\TCC\TCC-Latex\PreTexto/Agradecimentos.aux)
+(D:\TCC\TCC-Latex\PreTexto/Epígrafe.aux) (D:\TCC\TCC-Latex\PreTexto/Resumo.aux) (D:\TCC\TCC-Latex\PreTexto/Abstract.aux)
+(D:\TCC\TCC-Latex\Capítulos/Introdução/Introdução.aux) (D:\TCC\TCC-Latex\Capítulos/Fundamentação/Fundamentação.aux)
+(D:\TCC\TCC-Latex\Capítulos/Reservatorio/Reservatório.aux) (D:\TCC\TCC-Latex\Capítulos/Poço/Poço.aux)
+(D:\TCC\TCC-Latex\Capítulos/Acoplamento/Acoplamento.aux) (D:\TCC\TCC-Latex\Capítulos/Resultados/Resultados.aux)
+(D:\TCC\TCC-Latex\Capítulos/Conclusões/Conclusões.aux) (D:\TCC\TCC-Latex\Capítulos/Recomendações/Recomendações.aux)
+(D:\TCC\TCC-Latex\Capítulos/Apêndice/Apêndice.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6017 strings out of 495257
- 95249 string characters out of 3180159
- 138454 words of memory out of 3000000
- 8877 multiletter control sequences out of 15000+200000
- 197762 words of font info for 154 fonts, out of 3000000 for 9000
+ 6063 strings out of 495257
+ 91415 string characters out of 3180159
+ 139261 words of memory out of 3000000
+ 8904 multiletter control sequences out of 15000+200000
+ 205816 words of font info for 157 fonts, out of 3000000 for 9000
  16 hyphenation exceptions out of 8191
- 43i,10n,41p,643b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,13n,41p,618b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Programas/MiKTeX 2.8/fonts/enc/dvips/fontname/texnansi.enc}<D:/Programas/MiKTeX 2.8/fonts/type1/mathdesign/mdput/m
 d-utr7t.pfb><D:/Programas/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utr7v.pfb><D:/Programas/MiKTeX 2.8/fonts/type1/math
 design/mdput/md-utr7y.pfb><D:/Programas/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utr8t.pfb><D:/Programas/MiKTeX 2.8/fo
 nts/type1/mathdesign/mdput/md-utri7m.pfb><D:/Programas/MiKTeX 2.8/fonts/type1/adobe/utopia/putb8a.pfb><D:/Programas/MiKT
 eX 2.8/fonts/type1/adobe/utopia/putr8a.pfb><D:/Programas/MiKTeX 2.8/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on Texto.pdf (32 pages, 108236 bytes).
+Output written on Texto.pdf (32 pages, 109257 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
