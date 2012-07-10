@@ -111,7 +111,7 @@ Class=CLatexEdit
 Document=Capítulos\Reservatorio\Reservatório.tex
 
 [Frame3_Row0]
-cyCur=582
+cyCur=524
 cyMin=10
 
 [Frame3_Col0]
@@ -119,9 +119,9 @@ cxCur=962
 cxMin=10
 
 [Frame3_View0,0]
-Cursor.row=82
-Cursor.column=26
-TopSubLine=100
+Cursor.row=34
+Cursor.column=720
+TopSubLine=34
 
 [Frame4]
 Columns=1

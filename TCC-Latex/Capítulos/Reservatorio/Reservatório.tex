@@ -32,11 +32,17 @@ Apresenta-se aqui o modelo numérico empregado na representação do reservatório.
 
 Um sistema multifásico é diferenciado de um sistema monofásico pela presença de uma ou mais interfaces separando as fases. Ele pode ser considerado como um campo que é dividido em regiões monofásicas separadas por estas interfaces ou pode ser considerado como fronteiras móveis entre essas fases. \cite{AmirFaghri2006}
 
+A resolução rigorosa de um escoamento multifásico envolve a aplicação das equações de conservação em cada fase e também nas fronteiras que existem entre elas, assim, torna-se necessário a localização dessas fronteiras. No entanto, quanto maior o número e a complexidadede das fases de um sistema, o rastreamento das fronteiras torna-se inviável. Essa observação é válida para meios porosos, visto a complexidade geométrica da matriz rochosa, que representa a fase sólida no escoamento multifásico (Para meios porosos funciona assim.... Tirar a generalização da afirmação apesar de a fonte ser genérica). Para fins de engenharia de reservatórios, tem-se que não é necessário obter a solução do escoamento em meios porosos com esse nível de detalhamento, mas sim, concentra-se naquela proveniente de um nível macroscópico de análise.
+
+Modelos do tipo multi-fluido ou homogêneo podem ser utilizados nessa aproximação macroscópica, eles são baseados nas equações de conservação obtidas segundo a hipótese do contínuo e em técnicas de médias no epaço e tempo, as quais são as responsáveis por alterar a ordem de grandeza da escala em análise. Quando realiza-se a média espacial, tem-se o modelo multi-fluido, por outro lado, quando realiza-se a média ao longo de todas as fases presentes num volume de controle, tem-se o modelo homogêneo. 
+
 A modelagem direta do escoamento através de meios porosos é inviável pois estes constituem sistemas multifásicos cujas interfaces são de díficil representação. Logo, utiliza-se a técnica da média volumétrica em conjunto com as equações para escoamento livre a fim de se obter o modelo numérico do reservatório.
 
 Utiliza-se a técnica euleriana para a descrição do escoamento. Segundo ela, as propriedades do fluido são quantificadas ao longo do domínio de escoamento e do tempo. 
 
 As equações governantes são escritas para um volume de controle arbitrário contido no domínio do escoamento, elas expressam a relação entre a mudança das propriedades do escoamento no interior do volume de controle e através dele. 
+
+
 
 \subsection{Conservação da Massa}
 
